@@ -1,6 +1,5 @@
 # About Me:
-Developer full stack of the app intellecto<br><br>
-
+Full stack developer of the Intellecto app.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sofia-alves-figueredo-49138b39a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiaalvesfigueredo@gmail.com) 
